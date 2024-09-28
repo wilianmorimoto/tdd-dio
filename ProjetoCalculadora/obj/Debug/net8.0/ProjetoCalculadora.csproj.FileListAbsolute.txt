@@ -1,0 +1,14 @@
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.exe
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.deps.json
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.runtimeconfig.json
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.dll
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\bin\Debug\net8.0\ProjetoCalculadora.pdb
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.AssemblyInfoInputs.cache
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.AssemblyInfo.cs
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.dll
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\refint\ProjetoCalculadora.dll
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.pdb
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ProjetoCalculadora.genruntimeconfig.cache
+C:\Users\wilia\Downloads\TDD\ProjetoCalculadora\obj\Debug\net8.0\ref\ProjetoCalculadora.dll
